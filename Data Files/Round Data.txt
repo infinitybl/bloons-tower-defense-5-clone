@@ -1,0 +1,86 @@
+Normal Play, Rounds 1-85
+01 - 20 red
+02 - 30 red
+03 - 20 red / 5 blue
+04 - 30 red / 15 blue
+05 - 5 red / 25 blue
+06 - 15 red / 15 blue / 4 green
+07 - 20 red / 25 blue / 5 green
+08 - 10 red / 20 blue / 14 green
+09 - 30 green
+10 - 102 blue
+11 - 10 red / 10 blue / 12 green / 2 yellow
+12 - 15 blue / 10 green / 5 yellow
+13 - 100 red / 23 green / 4 yellow
+14 - 49 red / 15 blue / 10 green / 9 yellow
+15 - 20 red / 12 green / 5 yellow / 3 pink
+16 - 20 green / 8 yellow / 4 pink
+17 - 8 yellow
+18 - 80 green
+19 - 10 green / 4 yellow / 5 yellow / 7 pink
+20 - 6 black
+21 - 14 pink
+22 - 8 white
+23 - 5 black / 4 white
+24 - 1 camo
+25 - 31 yellow
+26 - 23 pink / 4 zebra
+27 - 120 red / 55 blue / 45 green / 45 yellow
+28 - 4 lead
+29 - 25 yellow / 12 pink
+30 - 9 lead
+31 - 8 zebra / 2 zebra
+32 - 25 black / 28 white / 8 lead
+33 - 20 camo
+34 - 140 yellow / 5 zebra
+35 - 35 pink / 25 white / 5 rainbow
+36 - 81 pink
+37 - 20 black / 20 white / 7 camo / 15 lead / 10 zebra
+38 - 42 pink / 17 white / 14 lead / 10 zebra / 4 rainbow
+39 - 10 black / 10 white / 20 lead / 20 zebra / 18 rainbow
+40 - 10 rainbow / 4 ceramic
+41 - 60 black / 60 zebra
+42 - 6 rainbow / 6 camo
+43 - 10 rainbow / 7 ceramic
+44 - 50 zebra
+45 - 200 pink / 8 lead / 25 rainbow
+46 - 1 MOAB
+47 - 70 camo / 12 ceramic
+48 - 120 pink / 50 rainbow
+49 - 343 green / 20 zebra / 20 rainbow / 10 rainbow / 18 ceramic
+50 - 20 red / 8 lead / 20 ceramic / 2 MOAB
+51 - 10 rainbow / 28 ceramic
+52 - 25 rainbow / 10 ceramic / 2 MOAB
+53 - 80 camo / 3 MOAB
+54 - 35 ceramic / 2 MOAB
+55 - 45 ceramic / 1 MOAB
+56 - 40 rainbow / 1 MOAB
+57 - 40 rainbow / 4 MOAB
+58 - 29 ceramic / 5 MOAB
+59 - 28 camo / 50 ceramic
+60 - 1 BFB
+61 - 150 zebra / 5 MOAB
+62 - 300 camo / 15 rainbow / 6 MOAB
+63 - 75 lead / 122 ceramic
+64 - 9 MOAB
+65 - 100 zebra / 70 rainbow / 50 ceramic / 3 MOAB / 2 BFB
+66 - 12 MOAB
+67 - 15 ceramic / 10 MOAB
+68 - 4 MOAB / 1 BFB
+69 - 60 lead / 70 ceramic
+70 - 200 rainbow / 4 MOAB
+71 - 30 ceramic / 10 MOAB
+72 - 38 ceramic / 2 BFB
+73 - 9 MOAB / 2 BFB
+74 - 200 ceramic / 1 BFB
+75 - 28 lead / 4 MOAB / 3 BFB
+76 - 60 ceramic
+77 - 14 MOAB / 5 BFB
+78 - 150 rainbow / 75 ceramic / 72 camo / 1 BFB
+79 - 500 rainbow / 7 BFB
+80 - 31 MOAB
+81 - 9 BFB
+82 - 400 rainbow / 10 BFB
+83 - 150 ceramic / 30 MOAB
+84 - 50 MOAB / 10 BFB
+85 - 1 ZOMG
